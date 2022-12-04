@@ -8,4 +8,4 @@ RUN /var/lang/bin/python3.8 -m pip install --upgrade pip
 RUN yum install git -y
 
 # install packages
-RUN pip install -r requirements.txt
+RUN pip install -r default_for_docker/requirements.txt
