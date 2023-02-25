@@ -10,3 +10,4 @@ jsons
 replicate
 torch
 einops
+opencv-python
